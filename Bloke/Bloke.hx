@@ -1,0 +1,2 @@
+class Bloke {
+    macro function 
